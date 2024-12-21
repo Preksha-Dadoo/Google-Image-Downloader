@@ -46,11 +46,11 @@ Send Email:
 python sendEmail.py <zip_file_path> <recipient_email>
  ```
 ## Requirements
-Python 3.x
+Python 3.x <br />
 Required Libraries:
-icrawler
-opencv-python
-yagmail
+icrawler <br />
+opencv-python <br />
+yagmail <br />
 
 ## Install dependencies using:
  ```bash
