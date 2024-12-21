@@ -6,21 +6,21 @@ This project automates an end-to-end image processing workflow that includes dow
 ## Project Overview
 The pipeline executes the following tasks:
 
-Download Images: Downloads images from the internet based on the given keyword.
-Convert to Grayscale: Converts the downloaded images to grayscale.
-Resize Images: Scales images by a specified percentage.
-Compress Files: Archives the processed images into a ZIP file.
-Send Email: Emails the ZIP file as an attachment to a specified recipient.
+Download Images: Downloads images from the internet based on the given keyword. <br />
+Convert to Grayscale: Converts the downloaded images to grayscale. <br />
+Resize Images: Scales images by a specified percentage. <br />
+Compress Files: Archives the processed images into a ZIP file. <br />
+Send Email: Emails the ZIP file as an attachment to a specified recipient. <br />
 
 ## Files in the Project
 
-download.py: Downloads images based on a search keyword.
-grayscaleconvert.py: Converts images to grayscale.
-scale.py: Resizes images based on a specified percentage.
-zip.py: Compresses processed images into a ZIP file.
-sendEmail.py: Sends the ZIP file to an email recipient.
-pipeline.py: Runs the entire image processing pipeline.
-main.py: Simplifies the pipeline with predefined parameters.
+download.py: Downloads images based on a search keyword. <br />
+grayscaleconvert.py: Converts images to grayscale. <br />
+scale.py: Resizes images based on a specified percentage. <br />
+zip.py: Compresses processed images into a ZIP file. <br />
+sendEmail.py: Sends the ZIP file to an email recipient. <br />
+pipeline.py: Runs the entire image processing pipeline. <br />
+main.py: Simplifies the pipeline with predefined parameters. <br />
 
 ## Individual Script Execution
 Each step can be executed independently:
